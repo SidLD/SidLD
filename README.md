@@ -18,7 +18,6 @@ I'm a **Computer Science student** passionate about building dynamic and scalabl
 - **Contributed to open-source projects** in the **MERN stack**, focusing on both frontend and backend improvements.
 - **Collaborated with cross-functional teams** to build scalable solutions for real-world business problems.
 - **Completed several coding challenges** and personal projects that honed my skills in JavaScript, Prisma, and full-stack development.
-- **Awarded for Best Student Project** at [Your University] for a web application that automated campus services.
 
 ---
 
