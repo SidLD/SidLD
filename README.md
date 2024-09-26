@@ -14,7 +14,7 @@ I'm a **Computer Science student** passionate about building dynamic and scalabl
 ---
 
 ### 🏆 Achievements
-- **Developed a fully functional e-commerce platform** using **PHP CodeIgniter** for the backend and integrated various payment gateways.
+- **Developed a fully functional e-commerce platform** using **MERN STACK** for the backend and integrated various payment gateways.
 - **Contributed to open-source projects** in the **MERN stack**, focusing on both frontend and backend improvements.
 - **Collaborated with cross-functional teams** to build scalable solutions for real-world business problems.
 - **Completed several coding challenges** and personal projects that honed my skills in JavaScript, Prisma, and full-stack development.
