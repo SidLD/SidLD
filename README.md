@@ -22,8 +22,31 @@ I'm a **Computer Science student** passionate about building dynamic and scalabl
 
 ---
 
+### 📊 GitHub Stats & Fun Animations
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SidLD&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SidLD&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Random Animation
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="random animation">
+</p>
+
+---
+
+### 📈 GitHub Pull Requests & Language
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SidLD&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SidLD&repo=your-repo-name&theme=radical" alt="GitHub Pull Requests">
+</p>
+
+---
+
 ### 📫 Let's Connect!
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cid.libril.9/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cid-l-7b9065116/)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/SidLD/)
-
