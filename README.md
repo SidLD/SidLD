@@ -1,4 +1,3 @@
-# Hi, I'm Cid 👋
 
 I'm a **Computer Science student** passionate about building dynamic and scalable web applications. I work as a **Full-Stack Web Developer**, primarily focusing on **PHP CodeIgniter** and the **MERN stack** (MongoDB, Express, React, Node.js). Along the way, I’ve worked with diverse technologies across different teams, which has given me the opportunity to adapt and expand my expertise.
 
