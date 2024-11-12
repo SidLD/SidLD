@@ -46,6 +46,5 @@ I'm a **Computer Science student** passionate about building dynamic and scalabl
 ---
 
 ### 📫 Let's Connect!
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/cid.libril.9/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cid-l-7b9065116/)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)](https://github.com/SidLD/)
